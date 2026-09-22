@@ -1,2 +1,2 @@
-# assignment-3-sogeri-floriculture
-Responsive website for Assignment 3
+# Web-Design
+Website development 
